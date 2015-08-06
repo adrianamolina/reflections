@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+Al iniciar un repositorio, creas un archivo oculto en la carpeta donde lo has
+iniciado, llamado .git.
+Lo necesitas para poder hacer commits del trabajo y de los cambios
+que se crean necesarios en ese proyecto.
