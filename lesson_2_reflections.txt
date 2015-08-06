@@ -12,3 +12,8 @@ el proyecto.
 El staging area serviría para agrupar los archivos que van a sufrir
 cambios en una modificación concreta, o en un momento del proyecto.
 Así controlamos los archivos que van a componer el commit.
+
+How can you use the staging area to make sure you have one commit per
+logical change?
+Añadiendo a staging area todos los archivos que van a sufrir cambios
+en relación a un mismo problema o mejora.
