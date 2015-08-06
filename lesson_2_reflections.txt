@@ -3,3 +3,12 @@ Al iniciar un repositorio, creas un archivo oculto en la carpeta donde lo has
 iniciado, llamado .git.
 Lo necesitas para poder hacer commits del trabajo y de los cambios
 que se crean necesarios en ese proyecto.
+
+How is the staging area different from the working directory and the
+repository? What value do you think it offers?
+El directorio de trabajo es donde estarían los archivos físicos, tal
+cual, mientras el repositorio es el conjunto de archivos que componen
+el proyecto.
+El staging area serviría para agrupar los archivos que van a sufrir
+cambios en una modificación concreta, o en un momento del proyecto.
+Así controlamos los archivos que van a componer el commit.
