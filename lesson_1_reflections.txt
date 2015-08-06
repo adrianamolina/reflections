@@ -1,0 +1,48 @@
+Diff ayuda a encontrar las diferencias de una manera
+más rápida.
+No hay que revisar todas las líneas manualmente,
+sino que muestra las líneas exactas que contienen diferencias.
+
+Tener acceso a la historia de un archivo ayuda en casos
+en los que se necesite recuperar algo que se borró o
+cambió en un estado anterior del trabajo.
+En lugar de tener que recordar, o volver a hacer todo de
+nuevo, se puede volver a un momento de la historia del
+archivo en el que esté lo que se necesita, ahorrando así
+mucho esfuerzo.
+
+Tener control de cuándo se guarda una versión tiene más cosas
+positivas que negativas.
+La única negativa es que uno es responsable de ello, al estar
+en medio de un trabajo hay que ser consciente y estar pendiente
+de cuándo debemos guardar una nueva versión. Si se hiciera de
+manera automática no tendríamos que preocuparnos sobre el
+momento correcto, simplemente el trabajo se haría solo.
+El problema de que sea automático, es que habrá un exceso o un
+defecto de versiones.
+
+Why do you think some version control systems, like Git, allow
+saving multiple files in one commit, while others, like Google
+Docs, treat each file separately?
+De esta manera se puede ver qué cambios han afectado a determinados
+archivos, y qué archivos no han necesitado ser modificados en esa
+etapa del proyecto.
+
+How can you use the commands git log and git diff to view the history
+of files?
+git log - muestra un historial de los commits recientes, con el id de
+cada commit.
+git diff - permite comparar dos commits (usando los id que muestra
+git log) y muestra las diferencias entre ambos commits. Líneas añadidas,
+eliminadas, etc.
+
+How might using version control make you more confident to make changes
+that could break something?
+Todos los cambios que se hagan usando versión de controles, no son
+destructivos. Se puede revertir o identificar qué ha provocado el
+problema sin necesidad de destruir el archivo tal y como está.
+
+Now that you have your workspace set up, what do you want to try using
+Git for?
+Para poder cambiar y mejorar el código html y css de mi página
+controlando los cambios.
