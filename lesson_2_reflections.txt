@@ -24,3 +24,7 @@ Usar ramas es importante cuando quieres realizar cambios a un proyecto
 pero no quieres que el proyecto principal se vea afectado.
 Quieres hacer pruebas para una nueva funcionalidad, o hacer otra
 versión del proyecto principal.
+
+How do the diagrams help you visualize the branch structure?
+De una manera visual ves los cambios que ha hecho cada persona
+a cada rama del trabajo, con una línea de tiempo.
