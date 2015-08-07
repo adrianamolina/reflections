@@ -28,3 +28,11 @@ versión del proyecto principal.
 How do the diagrams help you visualize the branch structure?
 De una manera visual ves los cambios que ha hecho cada persona
 a cada rama del trabajo, con una línea de tiempo.
+
+What is the result of merging two branches together? Why do we
+represent it in the diagram the way we do?
+Los cambios en ambos archivos se comparar con el padre del que parten
+los dos, y las cosas que hayan sido elminiadas no se suman. Pero las
+que han sido añadidas por ambas personas sí acaban en el archivo final.
+Al final el log es una combinación de los commits hechos en ambas
+ramas, ordenados por la hora en la que fueron realizados.
