@@ -24,3 +24,8 @@ o incluso dentro de local. Para poder trabajar en cambios en el propio ordenador
 Y un branch se crea para preservar el estado de una rama principal y poder añadir
 nuevas características o funcionalidades sin afectar a una versión estable del
 proyecto.
+
+What is the benefit of having a copy of the last known state of the remote stored
+locally?
+Que se estaría trabajando siempre en el proyecto en el estado más actualizado
+posible.
