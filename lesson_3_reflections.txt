@@ -29,3 +29,12 @@ What is the benefit of having a copy of the last known state of the remote store
 locally?
 Que se estaría trabajando siempre en el proyecto en el estado más actualizado
 posible.
+
+How would you collaborate without using Git or GitHub? What would be easier, and
+what would be harder?
+Sería más fácil al no tener que estar más o menos atento de los commits, o el
+estado del commit en el que uno está trabajando.
+Por otro lado se haría más difícil colaborar en un mismo proyecto de manera
+paralela con compañeros.
+Y además a veces sería imposible revertir cambios que no se quieren o hacer
+pruebas experimentales en el código sin miedo a romper las cosas.
