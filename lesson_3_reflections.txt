@@ -1,0 +1,7 @@
+When would you want to use a remote repository rather than keeping all your work local?
+Por tres razones:
+Una sería para que otras personas pudieran colaborar con ese trabajo.
+Otra sería como medida de seguridad, para poder acceder a ese trabajo desde cualquier
+lugar.
+Y por último, en el caso de hacer algo erróneo en local que no pueda ser revertido, se 
+tendría el repositorio remoto como backup.
