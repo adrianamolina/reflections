@@ -36,3 +36,12 @@ los dos, y las cosas que hayan sido elminiadas no se suman. Pero las
 que han sido añadidas por ambas personas sí acaban en el archivo final.
 Al final el log es una combinación de los commits hechos en ambas
 ramas, ordenados por la hora en la que fueron realizados.
+
+What are the pros and cons of Git’s automatic merging vs. always doing
+merges manually?
+La ventaja es que se hace de forma automática, ahorra mucho tiempo.
+Pero esto es sólo en caso de que no haya conflictos. Cuando hay conflictos
+la revisión la tiene que hacer uno mismo, pero aún así también se
+facilita el trabajo ya que git edita el archivo para marcarte en qué
+casos hay conflictos, y qué partes pertenecen a cada commit para que
+se pueda valorar qué cambios conservar.
