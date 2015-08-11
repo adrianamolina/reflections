@@ -3,5 +3,11 @@ Por tres razones:
 Una sería para que otras personas pudieran colaborar con ese trabajo.
 Otra sería como medida de seguridad, para poder acceder a ese trabajo desde cualquier
 lugar.
-Y por último, en el caso de hacer algo erróneo en local que no pueda ser revertido, se 
+Y por último, en el caso de hacer algo erróneo en local que no pueda ser revertido, se
 tendría el repositorio remoto como backup.
+
+Why might you want to always pull changes manually rather than having Git automatically
+stay up-to-date with your remote repository?
+Porque así decides cuándo los cambios que has realizado en un proyecto deben ser
+compartidos, cuándo es seguro hacerlo, o cuándo es mejor descartarlos y conservar
+el repositorio tal y como está en remoto por seguridad.
