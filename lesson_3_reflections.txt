@@ -38,3 +38,9 @@ Por otro lado se haría más difícil colaborar en un mismo proyecto de manera
 paralela con compañeros.
 Y además a veces sería imposible revertir cambios que no se quieren o hacer
 pruebas experimentales en el código sin miedo a romper las cosas.
+
+When would you want to make changes in a separate branch rather than directly
+in master? What benefits does each approach have?
+Cuando trabajas en colaboración con otras personas en un mismo proyecto es la mejor
+manera, ya que así se comprueba antes el cambio, que no provoca ningún problema,
+y ya habiendo asgeurado todo, se integraría en el proyecto principal.
